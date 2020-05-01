@@ -13,11 +13,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### The Easiest Way
 
-**upgrade** your ) without having to run anything on your own
-
-#### The Easy Way
-
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
+**upgrade** your ) without having to run anything on
 
 #### The Hard Way
 
@@ -31,7 +27,7 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [@Filmyflx](https://t.me/Filmyflx)
+* [Filmyflx](https://t.me/Filmyflx)
 
 
 #### LICENSE
